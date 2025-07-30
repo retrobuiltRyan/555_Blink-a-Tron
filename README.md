@@ -1,11 +1,11 @@
 # 555_Blink-a-Tron
 Surface Mount device practice soldering activity.
 Blink LEDS without logic using 555 timer + TLC5916 LED driver: 
-PCB layout for this TI whitge paper: https://www.ti.com/lit/an/slva346/slva346.pdf?ts=1731359344476&ref_url=https%253A%252F%252Fwww.google.com%252F
 
-<img width="937" height="912" alt="render rear" src="https://github.com/user-attachments/assets/1719e6ce-0776-4e84-af78-f3a08e97fb93" />
+Source reference TI white paper: https://www.ti.com/lit/an/slva346/slva346.pdf?ts=1731359344476&ref_url=https%253A%252F%252Fwww.google.com%252F
+
 <img width="980" height="922" alt="render front" src="https://github.com/user-attachments/assets/9d3fd3db-f1ca-4dbf-b0a9-b220538b1e3d" />
-
+<img width="937" height="912" alt="render rear" src="https://github.com/user-attachments/assets/1719e6ce-0776-4e84-af78-f3a08e97fb93" />
 
 ## Bill of Materials (BOM)
 
